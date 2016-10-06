@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">verify3test</string>
+    <string name="edit_message">Enter Pin Code</string>
+    <string name="button_send">Check</string>
+</resources>
